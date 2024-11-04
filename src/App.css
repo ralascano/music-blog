@@ -1,0 +1,82 @@
+@import "/node_modules/flag-icons/css/flag-icons.min.css";
+
+body {
+  background-color: #0f1014ff;
+  color: white;
+}
+
+.header {
+  background-color: #0f1014ff;
+}
+
+.header > a {
+  height: 130px;
+}
+
+
+.header-aboutme {
+  display: flex;
+  justify-content: end;
+  border-bottom: 1px white solid;
+}
+
+.header-aboutme-nav {
+  display: flex;
+  justify-content: space-evenly;
+  width: 15%;
+  text-decoration: none;  
+}
+
+.header-aboutme-nav > a {
+  text-decoration: none;  
+  color: white;
+}
+
+.header-menu {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px white solid;
+  padding: 10px;
+}
+
+.header-menu-left {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-menu-left  > img {
+  width: 5rem;
+}
+
+.header-menu-right {
+  display: flex;
+  justify-content: space-between;
+  width: 15%;
+  font-size: 20px;
+  align-items: end;
+}
+
+.header-menu-right > a {
+  text-decoration: none;  
+  color: white;
+}
+
+
+
+
+.video-responsive {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+  margin: 2%;
+}
+
+.video-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
