@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import Header from './Header'
-import Dashboard from './dashboard'
+import Dashboard from './Dashboard'
 import {kpopes} from '../data/blog-kpop-es'
 import {kpopen} from '../data/blog-kpop-en'
 
