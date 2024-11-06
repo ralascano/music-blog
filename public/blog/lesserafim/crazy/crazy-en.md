@@ -40,7 +40,7 @@ Here we must highlight that, although they received some criticism, they always 
 
 Additionally, it has exceeded 670,000 sales on the Hanteo Chart as of September 6. The album also entered Billboard’s main album chart in the U.S., marking another significant achievement.
 
-## Overall Rating (Optional)
+## Overall Rating 
 
 - **Lyrics**: 7/10 (While there’s a lot of meaningful context, the lyrics tend to repeat frequently. We should keep in mind that it's an electronic music style, so repetition is expected.)
 - **Music Production**: 10/10 (The music production team has left us speechless, as expected.)
