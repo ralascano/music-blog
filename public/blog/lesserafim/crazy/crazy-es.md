@@ -2,7 +2,6 @@
 # Análisis de “CRAZY” de LE SSERAFIM - Una explosión de energía y confianza
 
 ## Introducción
-![Descripción de la imagen](https://cdn-blog.netlify.app/assets/crazy-cover.jpeg)
 
 La canción "CRAZY" de LE SSERAFIM ha sido un release revolucionario ya que muchos fans (me incluyo) desde la presentación de 1800-hot-n-fun hemos estado a la expectativa del cuarto mini álbum por su energía y demostrando una vez más la identidad del grupo siendo desafiantes con un estilo poderoso. Todo esto gracias a la gran producción que hay detrás reflejando así el crecimiento y compromiso de estas muchachas para con sus fans.
 
