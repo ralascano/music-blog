@@ -15,7 +15,7 @@ export const kpopes = [
         link: "https://www.youtube.com/watch?v=n6B5gQXlB-0",
         idPost: "n6B5gQXlB-0"
     },
-    {
+    /*{
         id: 1,
         type: "kpop",
         title: "aespa 에스파 'Whiplash' MV",
@@ -29,5 +29,5 @@ export const kpopes = [
         ],
         link: "https://www.youtube.com/watch?v=jWQx2f-CErU",
         idPost: "jWQx2f-CErU"
-    }
+    }*/
 ]
