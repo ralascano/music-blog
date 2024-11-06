@@ -11,9 +11,12 @@ const Blog = ({data, selectedPost, lang}) => {
         console.log(data)
     }, [data])
   return (
-    <div style={{background: "#3333338c", height: "90%", flexBasis: "40%", overflowY: "scroll", padding: "35px", gap: "25px", display: "flex", flexDirection: "column"}}>
+    <div style={{background: "#3333338c", height: "90%", flexBasis: "40%", overflowY: "hidden", padding: "35px", gap: "25px", display: "flex", flexDirection: "column"}}>
         <CarouselImage/>
-        <MarkdownRenderer route={data[selectedPost].text.file + (lang === "en" ? "en.md" : "es.md")} lang={lang}/>
+        <div style={{overflowY: "scroll"}}>
+            <MarkdownRenderer route={data[selectedPost].text.file + (lang === "en" ? "en.md" : "es.md")} lang={lang}/>
+        </div>
+        
     </div>
   )
 }

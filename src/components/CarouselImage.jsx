@@ -3,7 +3,7 @@ import React from 'react';
 
 const contentStyle = {
   margin: 0,
-  height: '400px',
+  height: '200px',
   color: '#fff',
   lineHeight: '400px',
   textAlign: 'center',
